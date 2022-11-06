@@ -1,6 +1,6 @@
 # Spring-Project
 
-***HOPE YOU CLI A STAR:star::star::star:***
+***HOPE YOU CLICK A STAR:star::star::star:***
 
 **In this project, you need to implement a system which can crawl data from websites can display them in the front end. Your front end should communicate with the back end and send a request, then the back end will give the front end feedback.**
 
